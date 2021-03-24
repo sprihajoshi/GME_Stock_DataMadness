@@ -1,8 +1,3 @@
-getAccessToken is the script you need to run to get your access token after you have set up your reddit account, user
-agent and OAuth2 authentification.
-
-The exact steps you need to follow can be found here: https://github.com/reddit-archive/reddit/wiki/API
-
-Aftewards, the gmeSubs is the query script that batch loads 100 queries from the RedditAPI. The results of the query
-will be saved in a .csv file.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8c9d96e37467061eda0736ca9a4f2b1ad335b818c21aff054a7e1719227b6aa
+size 407
